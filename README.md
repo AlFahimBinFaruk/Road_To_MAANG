@@ -756,7 +756,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
     - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [ ] [[Review] Heap (playlist) in 13 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZNsyqgPW-DNwUeT8F8uhWc6)
-    - [ ] Implement a max-heap:
+    - [X] Implement a max-heap:
         - [ ] insert
         - [ ] sift_up - needed for insert
         - [ ] get_max - returns the max item, without removing it
